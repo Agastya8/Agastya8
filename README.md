@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Agastya8
-- 👀 I’m interested Cyber Security, WAPT mainly.
-- 🌱 I’m currently Pursuing my Bachelor's in Computer Science.
-- 💞️ I’m looking to collaborate on Cyber Security projects.
+ 
 - 📫 Agastya#0221
 
 <!---
